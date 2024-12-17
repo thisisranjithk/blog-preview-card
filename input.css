@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "FigtreeMedium";
+  src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("ttf");
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
+.section-container {
+  @apply w-96 h-auto bg-white rounded-lg p-6 border border-black shadow-[5px_5px_0px_0px_rgba(0,0,0)];
+}
