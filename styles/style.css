@@ -705,3 +705,8 @@ video {
     margin-right: 0px;
   }
 }
+
+.hover\:text-primary:hover {
+  --tw-text-opacity: 1;
+  color: rgb(244 208 78 / var(--tw-text-opacity, 1));
+}
