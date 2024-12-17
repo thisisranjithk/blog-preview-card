@@ -8,5 +8,5 @@
 @tailwind utilities;
 
 .section-container {
-  @apply w-96 h-auto mx-4 md:mx-0 bg-white rounded-lg p-6 border border-black shadow-[5px_5px_0px_0px_rgba(0,0,0)];
+  @apply w-96 h-auto mx-4 md:mx-0 bg-white rounded-xl p-6 border border-black shadow-[10px_10px_0px_0px_rgba(0,0,0)];
 }
