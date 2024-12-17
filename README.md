@@ -20,8 +20,8 @@ This project showcases a blog preview card with an image, title, description, an
 
 ## Links
 
-- Live Site: [Add your live link here]
-- Solution: [Frontend Mentor Blog Preview Card Solution](https://www.frontendmentor.io/solutions)
+- Live Site: [Blog-Preview-Card](https://blog-preview-card-ranjithk.netlify.app/)
+- Solution: [Frontend Mentor Blog Preview Card Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-tailwindcss-UsbDOkWSNA)
 
 ## My Process
 
